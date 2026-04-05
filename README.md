@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=github)
 
-<p>Welcome to my page! </br>I'm Blessd, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/16021/16021822.png" width="16" /> <b>US, United States</b>.</p>
+<p>Welcome to my page! </br>I'm idize, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/16021/16021822.png" width="16" /> <b>US, United States</b>.</p>
 
 <h3>Things I code with</h3>
 <p>
@@ -60,18 +60,18 @@
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://github.com/extraditablessd/commerce"><b>Commerce Next.js (coming soon...)</b></a></td>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/extraditablessd/extraditablessd?style=flat-square&labelColor=343b41" /></td>
-            <td><img alt="Forks" src="https://img.shields.io/github/forks/extraditablessd/extraditablessd?style=flat-square&labelColor=343b41" /></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/extraditablessd/extraditablessd?style=flat-square&labelColor=343b41" /></td>
-            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/extraditablessd/extraditablessd?style=flat-square&labelColor=343b41" /></td>
+            <td><a href="https://github.com/idize/commerce"><b>Commerce Next.js (coming soon...)</b></a></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/idize/commerce?style=flat-square&labelColor=343b41" /></td>
+            <td><img alt="Forks" src="https://img.shields.io/github/forks/idize/commerce?style=flat-square&labelColor=343b41" /></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/idize/commerce?style=flat-square&labelColor=343b41" /></td>
+            <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/idize/commerce?style=flat-square&labelColor=343b41" /></td>
         </tr>
     </tbody>
 </table>
 
 <h3>Where to find me</h3>
 <p>
-  <a href="https://github.com/extraditablessd" target="_blank">
+  <a href="https://github.com/idize" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
   <a href="mailto:try-flop-driven@duck.com" target="_blank">
