@@ -4,9 +4,8 @@
 
 ![](https://komarev.com/ghpvc/?username=github)
 
-<p>Welcome to my page! </br> I'm Blessd, Fullstack developer from
-    <img src="https://cdn-icons-png.flaticon.com/512/16021/16021822.png" width="16" /> <b>US, United States</b>.
-</p>
+<p>Welcome to my page! </br>I'm Blessd, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/16021/16021822.png" width="16" /> <b>US, United States</b>.</p>
+
 <h3>Things I code with</h3>
 <p>
   <!-- Languages -->
@@ -47,6 +46,7 @@
   <!-- API -->
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 </p>
+
 <h3>Open source projects</h3>
 <table>
     <thead align="center">
