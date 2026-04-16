@@ -1,4 +1,4 @@
-I’ve been programming for over 5 years, starting in late 2020. I began with HTML, CSS, and JavaScript, focusing early on building websites and later moving into JavaScript-based Discord bots using the [Discord.js](https://github.com/discordjs/discord.js).
+I’ve been programming for over 5 years, starting in late 2020. I began with HTML, CSS, and JavaScript, focusing early on building websites and later moving into JavaScript-based Discord bots using the [Discord.js](https://discord.js.org/).
 
 By late 2022, I started working with [Node.js](https://nodejs.org/docs/latest/api/) and [Express.js](https://expressjs.com/), building solid backend systems and REST APIs, including projects like authentication systems with [JWT](https://datatracker.ietf.org/doc/html/rfc7519) and role-based access control. After that, I expanded into Frontend Development with [React.js](https://reactjs.org/), [Next.js](https://nextjs.org/), and [Tailwind CSS](https://tailwindcss.com/) to create fast, modern, and responsive web applications.
 
